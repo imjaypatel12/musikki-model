@@ -18,3 +18,5 @@ Artists
 searchSong -[artist, title, album, id] “”
 
 searchArtist -[param] “”
+
+Important: We need to include "help" command as well
